@@ -7,6 +7,18 @@ public class Associate {
 	public Associate() {}
 	
 	
+	/**
+	 * 
+	 * @param yearlyInvestmentUnder80C
+	 * @param firstName
+	 * @param lastName
+	 * @param department
+	 * @param designation
+	 * @param pancard
+	 * @param emailId
+	 * @param salary
+	 * @param bankDetails
+	 */
 	
 	public Associate(int yearlyInvestmentUnder80C, String firstName, String lastName, String department,
 			String designation, String pancard, String emailId, Salary salary, BankDetails bankDetails) {
